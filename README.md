@@ -6,5 +6,5 @@ In this project I have worked with weather data with attributes such as visibili
 ![2](https://github.com/rixhi002/Weather-Data-Project/assets/94241513/50274149-ed53-40d0-bb9d-3024690c9e4d)
 ![3](https://github.com/rixhi002/Weather-Data-Project/assets/94241513/12b69d59-6c6b-427d-96a4-f67eaeb40655)
 ![4](https://github.com/rixhi002/Weather-Data-Project/assets/94241513/87c90f31-738a-46c7-963f-12d55e6fc36e)
-# Data Distribution Tableau
+# Tableau Data Visualization 
 ![Sheet 1](https://github.com/rixhi002/Weather-Data-Project/assets/94241513/e942e3f2-c385-44e0-bf0c-341c5aa74f01)
